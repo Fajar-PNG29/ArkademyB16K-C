@@ -1,0 +1,34 @@
+a:not([href]):not([tabindex]) {
+    color: #f7e49c;
+}
+.navbar {
+    background-color: #fffccf;
+}
+.navbar .form-group {
+    border-radius: 1em;
+    position: relative;
+    margin: 0 auto;
+}
+.navbar .form-control {
+    background-color: #c9c9c9;
+    width: 800px;
+}
+.table-set {
+    border-radius: 1em;
+    overflow: hidden;
+}
+.no-border {
+    border-radius: 0;
+    border: 0;
+}
+.border-radius {
+    border-radius: 1em;
+    overflow: hidden;
+}
+.btn-color {
+    background-color: #f7e49c;
+    border-color: #f7e49c;
+}
+.bg-secondary {
+    background-color: #f7e49c
+}
